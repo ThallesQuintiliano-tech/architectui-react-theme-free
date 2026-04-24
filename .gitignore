@@ -1,0 +1,10 @@
+node_modules/ 
+frontend/node_modules/ 
+.env 
+node_modules/ 
+frontend/node_modules/ 
+vendor/ 
+.env 
+*.log 
+/storage/*.key 
+/bootstrap/cache/ 
